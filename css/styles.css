@@ -16,6 +16,7 @@ Table of Contents:
 1. GLOBAL COLOUR STYLINGS
 =====================================
 */
+
 :root {
     /* primary brand colors*/
     --wolf-grey: #b3a7b1ef;
@@ -347,6 +348,9 @@ padding-right: 100px;
 8. About PAGE
 =====================================
 */
+.col-grup{
+    background-color: rgb(238, 213, 213);
+}
 
 .about-page {
     text-align: center;
