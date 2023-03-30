@@ -358,7 +358,7 @@ padding-right: 100px;
 }
 
 .container-intro {
-    text-align: auto;
+    text-align: center;
     max-width: 100%;
     padding: 0 100px 20px 100px;
 }
@@ -375,7 +375,7 @@ padding-right: 100px;
 .container-table {
     background-color: var(--wolf-grey);
     border: 1px solid var(--light-pink);
-    margin: 15px 50px;
+    margin: 15px 100px;
 }
 
 .table-canvas {
