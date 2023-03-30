@@ -362,7 +362,7 @@ padding-right: 100px;
 
 .project-list__item {
     flex-direction: column;
-    max-width: 1200px;
+    max-width: 200px;
     margin: 20px auto;
     padding: 100px 0;
   }
