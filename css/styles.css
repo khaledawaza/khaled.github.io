@@ -318,9 +318,10 @@ padding-right: 100px;
 /******start grid fallback */
 
 .project-list__item {
-    display: inline-block;
-    padding: 20px;
-    width: 33%;
+    flex-direction: column;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 100px 0;
 }
 
 
