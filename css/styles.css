@@ -358,7 +358,7 @@ padding-right: 100px;
 }
 
 .container-intro {
-    text-align: center;
+    text-align: auto;
     max-width: 100%;
     padding: 0 100px 20px 100px;
 }
